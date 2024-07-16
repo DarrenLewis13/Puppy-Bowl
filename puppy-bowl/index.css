@@ -1,0 +1,20 @@
+body {
+  background-color: aqua;
+  margin: 4% 8%;
+}
+
+h1 {
+  text-align: center;
+  color: darkgoldenrod;
+}
+
+li {
+  padding-bottom: 4%;
+  color: blueviolet;
+} 
+
+img {
+  display: block;
+  height: 50%;
+}
+
